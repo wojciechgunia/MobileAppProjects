@@ -30,7 +30,8 @@
   <li><a href="https://github.com/wojciechgunia/Boat_Controller_MA">Boat Controller App - wifi controller for remote controlled boats</a></li>
 </ul>
 
-###
+#
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
